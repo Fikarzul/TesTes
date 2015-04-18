@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">TesTes</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello 1204105010075</string>
+    <string name="apakabar_dunia">Apa Kabar Dunia</string>
+    <string name="tombol_terjemah">Terjemahkan...</string>
     <string name="action_settings">Settings</string>
 </resources>
